@@ -3,7 +3,7 @@
 **MSc in Financial Technology Student** | Eötvös Loránd University (ELTE), Budapest  
 **Junior Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eszter-mohos-6a4a73276/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eszter-mohos)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:eszter.mohos@gmail.com)
 
 ---
